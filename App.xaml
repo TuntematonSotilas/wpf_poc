@@ -4,6 +4,8 @@
              xmlns:local="clr-namespace:wpf_poc"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <SolidColorBrush x:Key="MainWindowBackgroudBrush" Color="#343A4F" />
+        </ResourceDictionary>
     </Application.Resources>
 </Application>

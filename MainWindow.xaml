@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wpf_poc"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="WPF" Height="auto" Width="auto"
+        Icon="icon.ico"
+        Background="{StaticResource MainWindowBackgroudBrush}">
     <Grid>
-
+        
     </Grid>
 </Window>
